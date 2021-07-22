@@ -1,0 +1,112 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	background-color: paleturquoise;
+	font-family: "Bookman Old Style";
+}
+
+.header {
+	/*font-family: cursive;*/
+	font-size: 25px;
+	text-align: center;
+	color: red;
+}
+
+#array {
+	//background-color: white;
+	height: 413px;
+	width: 598px;
+	margin: auto;
+	position: relative;
+	margin-top: 64px;
+}
+
+.block {
+	width: 28px;
+	background-color: #6b5b95;
+	position: absolute;
+	bottom: 0px;
+	transition: 0.2s all ease;
+}
+
+.block_id {
+	position: absolute;
+	color: black;
+	margin-top: -20px;
+	width: 100%;
+	text-align: center;
+}
+.data-container {
+  width: 600px;
+  height: 364px;
+  position: relative;
+  margin: 0 auto;
+}
+  
+.bar {
+  width: 28px;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  background-color: #6b5b95;
+  transition: 0.2s all ease;
+}
+  
+.bar__id {
+  position: absolute;
+  top: -24px;
+  width: 100%;
+  text-align: center;
+}
+.btn1
+{
+padding: 12px; 
+background-color: blue; 
+border-radius: 10px; 
+color: white; 
+font-size: 16px; 
+border: white; 
+margin-top: 1vw;
+margin-right: 1vw;
+}
+.btn2
+{
+padding: 12px; 
+font-weight: bolder; 
+background-color: blue; 
+border-radius: 10px; 
+color: white; 
+font-size: 16px; 
+border: white
+}
+#ele{
+  text-align: center;
+  height: 35px;
+}
+.block_id2 {
+	position: absolute;
+	color: black;
+	margin-top: 22px;
+	width: 100%;
+	text-align: center;
+  }
+  .block2 {
+	width: 28px;
+	background-color: darkgray;
+	position: absolute;
+	transition: 0.2s all ease;
+  }
+  .block_id3 {
+	position: absolute;
+	color: black;
+	margin-top: 1px;
+	width: 100%;
+	text-align: center;
+  }
+  #count {
+	height: 20px;
+	width: 598px;
+	margin: auto;
+  }
+  
